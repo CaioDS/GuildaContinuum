@@ -1,0 +1,23 @@
+{
+  "name": "guildacontinuum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioDS/GuildaContinuum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioDS/GuildaContinuum/issues"
+  },
+  "homepage": "https://github.com/CaioDS/GuildaContinuum#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
